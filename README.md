@@ -1,2 +1,3 @@
 # hello-git
-just getting started with git hub
+am new at github infrastructure am just getting started and it looks cool
+
